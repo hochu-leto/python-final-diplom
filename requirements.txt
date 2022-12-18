@@ -1,2 +1,7 @@
 Django==2.2.13
 pytz==2018.5
+backend~=0.2.4.1
+requests~=2.28.1
+djangorestframework~=3.14.0
+ujson~=5.6.0
+PyYAML~=6.0
